@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">USB prijung?jas</string>
+
+    <string name="licenses">Leidimai</string>
+    <string name="licenses_upstream">Pirminis kodas</string>
+
+    <string name="file_picker_nofile">Nieko</string>
+
+    <!-- Visible in the activity -->
+    <string name="host_source_file">Atvaizdo byla</string>
+    <string name="host_ro">Tik skaityti</string>
+    <string name="host_ro_summary">Neleisti kompiuteriui ?ra?in?ti ? atvaizd?</string>
+    <string name="host_serve">Prijungti</string>
+    <string name="host_disable">Nuimti</string>
+    <string name="host_help">?i program?l? bando veikti greta Android USB paslaug?, bet sistema bet kuriuo metu gali apeiti program?l?s funkcijas</string>
+
+    <!-- Toast messages -->
+    <string name="host_success">?renginys dabar tur?t? pasirodyti JØ±s? kompiuteryje</string>
+    <string name="host_disable_success">?renginys dabar tur?t? pradingti i? JØ±s? kompiuterio</string>
+    <string name="host_noroot">Negali gauti ?aknin?s prieigos</string>
+</resources>
